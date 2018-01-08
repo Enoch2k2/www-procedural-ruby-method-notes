@@ -1,4 +1,4 @@
-#Ruby Methods
+# Ruby Methods
 ### Defining a method
 Ruby methods contains a block of code that we can run in order to do some sort of logic.
 
