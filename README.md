@@ -117,6 +117,8 @@ def say
     greeting = "Hello"
 end
 
+say # expecting it to set a variable called greeting
+
 # greeting will still throw an undefined method or local variable error
 puts greeting
 ```
